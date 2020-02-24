@@ -16,3 +16,17 @@ end
 #The name method is aptly called a getter. The name= method is called a setter, because it sets a property for us. 
 
 #Setter properties are always written like `property=`
+
+lassie = Dog.new 
+lassie.name = "Lassie"
+lassie.name 
+
+#We are creating a new dog instance, setting it's name to Lassie, and trying to access/read its name. 
+
+
+
+
+
+
+
+
